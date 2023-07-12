@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"list":[{"code":250,"indent":0,"parameters":[{"name":"Book1","volume":90,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Tonto el que lo lea",1,0,415,300,10,10,0,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,415,300,10,10,255,0,60,true]},{"code":121,"indent":0,"parameters":[9,9,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Libro Prohibido","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":111,"indent":0,"parameters":[11,"ok"]},{"code":235,"indent":1,"parameters":[1]},{"code":101,"indent":1,"parameters":["Livia",0,0,2]},{"code":401,"indent":1,"parameters":["Me siento estafada..."]},{"code":121,"indent":1,"parameters":[9,9,1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Libro abierto","switchId":9,"trigger":1},
+{"id":3,"list":[{"code":356,"indent":0,"parameters":["EnemyBook open"]},{"code":0,"indent":0,"parameters":[]}],"name":"Bestiario","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":313,"indent":0,"parameters":[0,0,0,13]},{"code":337,"indent":0,"parameters":[0,129,true]},{"code":0,"indent":0,"parameters":[]}],"name":"Defensa +","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":250,"indent":0,"parameters":[{"name":"Book1","volume":90,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Tonto el que lo lea",1,0,415,300,10,10,0,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,415,300,10,10,255,0,60,true]},{"code":121,"indent":0,"parameters":[9,9,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Carta Fuvlia","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Robar PM","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":311,"indent":0,"parameters":[0,0,1,0,100,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Reducir vida","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":250,"indent":0,"parameters":[{"name":"Book1","volume":90,"pitch":100,"pan":0}]},{"code":231,"indent":0,"parameters":[1,"Aer",1,0,415,300,10,10,0,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,400,300,45,45,255,0,60,true]},{"code":121,"indent":0,"parameters":[57,57,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Mapa","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":111,"indent":0,"parameters":[11,"ok"]},{"code":235,"indent":1,"parameters":[1]},{"code":121,"indent":1,"parameters":[57,57,1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Mapa abierto","switchId":57,"trigger":1},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":12,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":13,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
